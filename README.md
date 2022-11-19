@@ -1,0 +1,1 @@
+Curso de bases de datos relacionales de MySQL y MariaDB, donde creo una base de datos del sistema de metro de la Ciudad de Mexico :D
